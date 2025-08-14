@@ -16,8 +16,9 @@ Discover your next favorite anime show with **AI-powered recommendations**! This
 ---
 
 ## 🖼️ Go to This Amazing app
+CHECK IT OUT HERE==>
+[![Anime Recommender](https://ai-anime-recommender.vercel.app/)](https://ai-anime-recommender.vercel.app/)
 
-![Anime Recommender](https://ai-anime-recommender.vercel.app/)
 
 ---
 
