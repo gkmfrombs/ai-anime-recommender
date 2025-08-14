@@ -4,30 +4,24 @@ Discover your next favorite anime show with **AI-powered recommendations**! This
 
 ---
 
+## 🖼️ Go to This Amazing App
+
+Check it out here: [https://ai-anime-recommender.vercel.app](https://ai-anime-recommender.vercel.app)
+
+<a href="https://ai-anime-recommender.vercel.app/">
+  <img src="https://github.com/user-attachments/assets/3ec04691-71bf-4b3e-8da9-e515c243e2a6" width="800" alt="Anime Recommender Demo" />
+</a>
+
+---
+
 ## 🔮 Features
 
-- 🌟 Get **3 distinct anime recommendations** per genre
-- 🎨 Beautiful **responsive UI** built with **React** & **Tailwind CSS**
-- 🏷️ **25+ anime genres** to choose from
-- ⏳ Smooth **loading spinner** while fetching recommendations
-- ⚠️ Proper **error handling** for API failures
-- 💻 Mobile-friendly and fully responsive design
-
----
-
-## 🖼️ Go to This Amazing app
-CHECK IT OUT HERE==>
-[![Anime Recommender](<img width="1290" height="804" alt="image" src="https://github.com/user-attachments/assets/3ec04691-71bf-4b3e-8da9-e515c243e2a6" />
-)](https://ai-anime-recommender.vercel.app/)
-
-
----
-
-## 🚀 How to Use
-
-1. Select your favorite anime genre from the dropdown.  
-2. Click **Get Recommendations**.  
-3. View the recommended anime titles and summaries in a clean card layout.  
+- 🌟 Get **3 distinct anime recommendations** per genre  
+- 🎨 Beautiful **responsive UI** built with **React** & **Tailwind CSS**  
+- 🏷️ **25+ anime genres** to choose from  
+- ⏳ Smooth **loading spinner** while fetching recommendations  
+- ⚠️ Proper **error handling** for API failures  
+- 💻 Mobile-friendly and fully responsive design  
 
 ---
 
@@ -36,11 +30,11 @@ CHECK IT OUT HERE==>
 - **React** – Frontend framework  
 - **Tailwind CSS** – Styling  
 - **Gemini API** – AI-based anime recommendation  
-- **Vercel** – Deployment (optional)  
+- **Vercel** – Deployment  
 
 ---
 
-## ⚡ Installation (Local)
+## 🚀 How to Use (Local)
 
 ```bash
 # Clone the repo
